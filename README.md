@@ -29,4 +29,4 @@
         * I also used the console and alerts to help me see any issues I was having.
         * I also would Google things and attend office hours.
 ## Screenshot
-    ![homework 3 screenshot](./Assets/Homework3-screenshot.png)
+    ![homework 3 screenshot](./assets/images/Homework3-screenshot.png)
