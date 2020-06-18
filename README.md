@@ -1,6 +1,6 @@
-# Password Generator Readme
+# Password Generator
 
-https://guillermo-martin.github.io/homework3/index.html
+https://guillermo-martin.github.io/passwordGenerator/
 
 ## Description
 
